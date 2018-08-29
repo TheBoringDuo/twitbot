@@ -1,6 +1,6 @@
 # twitbot
 
- By ysanatomic.
+ By: ysanatomic.
 
  Needed node.js skills.
  
