@@ -1,9 +1,5 @@
 console.log("yay. its starting.");
 var Twit = require('twit');
-const readline = require('readline').createInterface({
-  input: process.stdin,
-  output: process.stdout
-})
 var T = new Twit({
 //config
   consumer_key:         '',
