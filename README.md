@@ -1,8 +1,8 @@
 # twitbot
 
 
-// Needed node.js skills
-// You need to config with your api keys.
+ Needed node.js skills
+ You need to config with your api keys.
 
  You can choose what option to call.
 
