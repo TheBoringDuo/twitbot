@@ -1,6 +1,8 @@
 # twitbot
 
  By: ysanatomic.
+ 
+ Disclaimer: This is very basic bot. You can write the other functions yourself.
 
  Needed node.js skills.
  
